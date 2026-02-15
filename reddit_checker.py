@@ -10,7 +10,7 @@ from datetime import datetime
 
 # Email Configuration
 SENDER_EMAIL = "data10710172@gmail.com"
-SENDER_PASSWORD = "Allan@20205"
+SENDER_PASSWORD = "yydi xacw kczw zmsd"
 RECIPIENT_EMAIL = "allanngetich50@gmail.com"
 
 def check_reddit_profile(username):
@@ -250,4 +250,5 @@ def main():
     send_email(subject, report)
 
 if __name__ == "__main__":
+
     main()
